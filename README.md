@@ -11,18 +11,18 @@ Programming languages I know:
 * JavaScript
 * PHP, mySql
 * CSS, HTML
-
+  
 ### 🌱 Studies
 <img align="right" src="https://github.com/HandsomeTom/HandsomeTom/blob/main/hivelogo.png?raw=true">
 Hive Helsinki Code School is a new kind of school in Finland which relies heavily on a peer-to-peer learning model. Most of the studies before first internship are done with raw C, using only the lowest level building blocks. Hive is part of the 42 school network. I'm currently working on the last project before the first internship, 
 <a href="https://github.com/HandsomeTom/HandsomeTom/blob/main/doom-nukem.en.pdf"> Doom-Nukem</a>.
-
+  
 ### :nerd_face: Game Development
 <img align="left" src="https://github.com/HandsomeTom/HandsomeTom/blob/main/squishy.png?raw=true">
 Game Development has always been more of a hobby for me. I enjoy all the aspects of the work, not just the programming. Most of my creations are experiments, not finished projects. However, I do have a simple puzzle platformer published on steam; 
 <a href="https://store.steampowered.com/app/318430/Squishy_the_Suicidal_Pig"> Squishy the Suicidal Pig</a>.
-Check it out!
-
+Check it out!  
+  
 ### 📫 Contact
 <a href="https://www.facebook.com/tomi.maarela">Facebook</a>  
 :e-mail: tmaarela@student.hive.fi  
