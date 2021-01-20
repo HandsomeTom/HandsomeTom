@@ -21,7 +21,7 @@ Hive Helsinki Code School is a new kind of school in Finland which relies heavil
 <img align="left" src="https://github.com/HandsomeTom/HandsomeTom/blob/main/squishy.png?raw=true">
 Game Development has always been more of a hobby for me. I enjoy all the aspects of the work, not just the programming. Most of my creations are experiments, not finished projects. However, I do have a simple puzzle platformer published on steam; 
 <a href="https://store.steampowered.com/app/318430/Squishy_the_Suicidal_Pig"> Squishy the Suicidal Pig</a>.
-Check it out!  
+Check it out!  <br><br>
   
 ### 📫 Contact
 <a href="https://www.facebook.com/tomi.maarela">Facebook</a>  
