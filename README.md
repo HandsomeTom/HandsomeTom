@@ -1,4 +1,4 @@
-![Header](https://i.gyazo.com/58190516e7417ae14afa24b300882bc5.png "Header")
+![Header](https://github.com/HandsomeTom/HandsomeTom/blob/main/bannergit.png?raw=true "Header")
 # Welcome to my GitHub page!
 
 :wave:
@@ -13,9 +13,11 @@ Programming languages I know:
 * CSS, HTML
 
 ### 🌱 Studies
-![hive logo](https://github.com/HandsomeTom/HandsomeTom/blob/main/hivelogo.png?raw=true) Hive Helsinki Code School is a new kind of school in Finland which relies heavily on a peer-to-peer learning model. Most of the studies before first internship are done with raw C, using only the lowest level building blocks. Hive is part of the 42 school network. I'm currently working on the last project before the first internship, [Doom Nukem](https://github.com/HandsomeTom/HandsomeTom/blob/main/doom-nukem.en.pdf).
+<img align="right" src="https://github.com/HandsomeTom/HandsomeTom/blob/main/hivelogo.png?raw=true">
+Hive Helsinki Code School is a new kind of school in Finland which relies heavily on a peer-to-peer learning model. Most of the studies before first internship are done with raw C, using only the lowest level building blocks. Hive is part of the 42 school network. I'm currently working on the last project before the first internship, [Doom Nukem](https://github.com/HandsomeTom/HandsomeTom/blob/main/doom-nukem.en.pdf).
 
 ### :nerd_face: Game Development
+<img align="left" src="https://github.com/HandsomeTom/HandsomeTom/blob/main/squishy.png?raw=true">
 Game Development has always been more of a hobby for me. I enjoy all the aspects of the work, not just the programming. Most of my creations are experiments, not finished projects. However, I do have a simple puzzle platformer published on steam; [Squishy the Suicidal Pig](https://store.steampowered.com/app/318430/Squishy_the_Suicidal_Pig/) Check it out!
 
 ### 📫 Contact
