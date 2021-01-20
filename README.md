@@ -1,10 +1,12 @@
 
 ![Header](https://i.gyazo.com/58190516e7417ae14afa24b300882bc5.png "Header")
-#Welcome to my GitHub page!#
+#Welcome to my GitHub page!
+
 :wave:
 My name is Tomi. I am a 26 year old student at Hive Helsinki Code School in Finland.
 I love coding and my passion lies in making video games.
-###Studies###
+
+###Studies
 
 ![Tomi's github stats](https://github-readme-stats.vercel.app/api?username=HandsomeTom)](https://github.com/anuraghazra/github-readme-stats)
 
